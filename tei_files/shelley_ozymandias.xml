@@ -1,0 +1,89 @@
+<TEI version="3.3.0" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title level="m" type="main">Ozymandias </title>
+            <title level="m" type="sub"> a machine readable transcription</title>
+            <author ref="https://www.wikidata.org/wiki/Q93343">Percy Bysshe Shelley</author>
+              <respStmt>
+                  <resp>Transcription and encoding</resp>
+                  <persName xml:id="sy">Susannah Young</persName>
+              </respStmt>
+          </titleStmt>
+          
+          <editionStmt>
+            <edition>
+                <date>2026</date>
+            </edition>
+          </editionStmt>
+
+          <publicationStmt>
+            <availability><p>Unpublished digital edition for MLIS portfolio. The text of the original item is in the public domain.</p></availability>
+          </publicationStmt>
+          
+          <sourceDesc>
+            <biblStruct>
+              <monogr>
+                    <author ref="https://www.wikidata.org/wiki/Q93343">Percy Bysshe Shelley</author>
+                    <title level="m" type="main">Rosalind and Helen</title>
+                    <title level="m" type="sub">A Modern Ecologue; with Other Poems</title>
+                    <title level="a" type="main">Ozymandias</title>
+                    <orgName xml:id="digitizer">Duke University Libraries</orgName>
+                    <imprint>
+                        <pubPlace>London</pubPlace>
+                        <publisher>C. and J. Oliver</publisher>
+                        <date when="1819">1819</date>
+                    </imprint>
+                </monogr>
+                <note type="project"> 
+                Transcribed from digital images of the original. 
+                Digitized version provided by Duke University Libraries via the Internet Archive.
+                <ptr type="url" target="https://archive.org/details/rosalindhelenmod00shel/"/>
+                </note>
+            </biblStruct>
+            
+            <bibl>
+                <author ref="https://www.wikidata.org/wiki/Q93343">Percy Bysshe Shelley</author>
+                <title level="a" type="main">Ozymandias</title>
+                <date xml:id="dat1" notBefore="1817" notAfter="1817" cert="high">1817</date>
+                <orgName>Oxford, Bodleian Libraries</orgName>
+                <note type="manuscript">
+                  Manuscript dated 1817. Minor differences in word choice exist between manuscript and 1819 printed edition.
+                  <ptr type="url" target="https://commons.wikimedia.org/wiki/File:Ozymandias_Shelley_draft_c1817.gif"/>
+                </note>
+            </bibl>
+          </sourceDesc>
+        </fileDesc>
+
+        <encodingDesc>
+            <projectDesc>
+                <p>Encoded for portfolio demonstration using TEI P5</p>
+            </projectDesc>
+            <samplingDecl>
+                <p>Five poems were selected to represent differing attitudes toward history, monuments, and power in Romantic-era poetry.</p>
+            </samplingDecl>
+        </encodingDesc>
+    </teiHeader>
+
+    <text>
+      <body>
+        <lg type="sonnet">
+            <head>Ozymandias</head>
+            <l>I met a traveller from an antique land</l>
+            <l>Who said: Two vast and trunkless legs of stone</l>
+            <l>Stand in the desert. Near them, on the sand,</l>
+            <l>Half sunk, a shattered visage lies, whose frown,</l>
+            <l>And wrinkled lip, and sneer of cold command</l>
+            <l>Tell that its sculptor well those passions read</l>
+            <l>Which yet survive, stamped on those lifeless things,</l>
+            <l> The hand that mocked them and the heart that fed:</l>
+            <l>And on the pedestal these words appear:</l>
+            <l>"My name is <persName>Ozymandias</persName>, King of Kings;</l>
+            <l>Look on my Works, ye Mighty, and despair!"</l>
+            <l>Nothing beside remains. Round the decay</l>
+            <l>Of that colossal Wreck, boundless and bare</l>
+            <l>The lone and level sands stretch far away.</l>
+        </lg>
+      </body>
+    </text>
+  </TEI>

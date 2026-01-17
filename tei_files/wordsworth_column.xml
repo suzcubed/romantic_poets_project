@@ -1,0 +1,86 @@
+<TEI version="3.3.0" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title level="m" type="main">The Column Intended by Buonaparte for a Triumphal Edifice in Milan, now Lying by the Wayside on the Semplon</title>
+            <title level="m" type="sub"> a machine readable transcription</title>
+            <author ref="https://www.wikidata.org/wiki/Q45546">William Wordsworth</author>
+            <respStmt>
+                <resp>Transcription and encoding</resp>
+                <persName xml:id="sy">Susannah Young</persName>
+            </respStmt>
+          </titleStmt>
+          
+            <editionStmt>
+                <edition>
+                    <date>2026</date>
+                </edition>
+            </editionStmt>
+
+            <publicationStmt>
+                <availability><p>Unpublished digital edition for MLIS portfolio. The text of the original item is in the public domain.</p></availability>
+            </publicationStmt>
+                
+            <sourceDesc>
+            <biblStruct>
+               <monogr>
+                    <author ref="https://www.wikidata.org/wiki/Q45546">William Wordsworth</author>
+                    <title level="m" type="main">Memorials of a Tour on the Continent</title>
+                    <title level="a" type="main">The Column Intended by Buonaparte for a Triumphal Edifice in Milan, now Lying by the Wayside on the Semplon</title>
+                    <orgName xml:id="digitizer">University of California Libraries</orgName>
+                    <imprint>
+                        <pubPlace>London</pubPlace>
+                        <publisher>Longman, Hurst, Rees, Orme, and Brown</publisher>
+                        <date>1822</date>
+                    </imprint>
+                </monogr>
+                <note type="project">
+                Transcribed from digital images of the original.
+                Digitized version provided by the University of California Libraries via the Internet Archive. 
+                        <ptr type="url" target="https://archive.org/details/memorialsoftouro00wordrich/"/>
+                </note>
+            </biblStruct>
+            
+            <bibl>
+                <author ref="https://www.wikidata.org/wiki/Q45546">William Wordsworth</author>
+                <title level="a" type="main">The Column Intended by Buonaparte for a Triumphal Edifice in Milan, now Lying by the Wayside on the Semplon</title>
+                <date xml:id="dat1" notBefore="1820" notAfter="1822" cert="high">Between 1820 and 1822 </date>
+                <note type="project">
+                   Wordsworth wrote this collection of poems during an 1820 tour of Europe. 
+                </note>
+            </bibl>
+          </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <projectDesc>
+                <p>Encoded for portfolio demonstration using TEI P5</p>
+            </projectDesc>
+            <samplingDecl>
+                <p>Five poems were selected to represent differing attitudes toward history, monuments, and power in Romantic-era poetry.</p>
+            </samplingDecl>
+        </encodingDesc>
+    </teiHeader>
+
+    <text>
+        <body>
+        <lg type="sonnet">
+            <head>The Column Intended by <persName ref="https://www.wikidata.org/wiki/Q517">Buonaparte</persName> for a Triumphal Edifice in <placeName>Milan<placeName>, now Lying by the Wayside on the <placeName>Semplon<placeName></head>
+            <l>Ambition, following down this far-famed slope</l>
+            <l>Her Pioneer, the snow-dissolving Sun,</l>
+            <l>While clarions prate of Kingdoms to be won,</l>
+            <l>Perchance, in future ages, here may stop;</l>
+            <l>Taught to mistrust her flattering horoscope</l>
+            <l>By admonition from this prostrate Stone;</l>
+            <l>Memento uninscribed of Pride o'erthrown,</l>
+            <l>Vanity's hieroglyphic;—a choice trope</l>
+            <l>In fortune's rhetoric. Daughter of the Rock,</l>
+            <l>Rest where thy course was stayed by Power Divine!</l>
+            <l>The Soul transported sees, from hint of thine,</l>
+            <l>Crimes which the great Avenger's hand provoke,</l>
+            <l>Hears combats whistling o'er the ensanguin'd heath:</l>
+            <l>What groans! what shrieks! what quietness in death!</l>
+        </lg>
+        </body>
+    </text>
+</TEI>

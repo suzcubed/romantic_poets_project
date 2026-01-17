@@ -1,0 +1,117 @@
+<TEI version="3.3.0" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title level="m" type="main">The Ruined Castle</title>
+            <title level="m" type="sub"> a machine readable transcription</title>
+            <author ref="https://www.wikidata.org/wiki/Q272537">Felicia Hemans</author>
+            <respStmt>
+                <resp>Transcription and encoding</resp>
+                <persName xml:id="sy">Susannah Young</persName>
+            </respStmt>
+          </titleStmt>
+          <editionStmt>
+            <edition>
+                <date>2026</date>
+            </edition>
+          </editionStmt>
+
+        <publicationStmt>
+            <availability><p>Unpublished digital edition for MLIS portfolio. The text of the original item is in the public domain.</p></availability>
+        </publicationStmt>
+
+          <sourceDesc>
+            <biblStruct>
+               <monogr>
+                    <author ref="https://www.wikidata.org/wiki/Q272537">
+                    <choice>
+                    <orig>Felicia Dorothea Browne</orig>
+                    <reg>Felicia Dorothea Hemans</reg>
+                    </choice>
+                    </author>
+                    <title level="m" type="main">Poems</title>
+                    <title level="a" type="main">The Ruined Castle</title>
+                    <orgName xml:id="digitizer">Wikimedia Commons</orgName>
+                    <imprint>
+                        <pubPlace>London</pubPlace>
+                        <publisher>T. Cadell and W. Davies</publisher>
+                        <printer>G. F. Harris</printer>
+                        <date>1808</date>
+                    </imprint>
+                </monogr>
+                <note type="project">
+                Transcribed from digital images of the original.
+                Digitized version available as scanned PDF via Wikimedia Commons.
+                        <ptr type="url" target="https://upload.wikimedia.org/wikipedia/commons/8/86/1808_Poems_by_Felicia_Dorothea_Browne.pdf"/>
+                </note>
+            </biblStruct>
+
+            <bibl>
+                <author ref="https://www.wikidata.org/wiki/Q207858">Felicia Hemans</author>
+                <title level="a" type="main">The Ruined Castle</title>
+                <date xml:id="dat1" notBefore="1800" notAfter="1808" cert="medium">Between 1800 and 1808</date>
+                <note type="project">
+                    Poems in Hemans' 1808 volume were composed between ages 8 and 13, ranging from around 1800 to first publication in 1808.
+                </note>
+            </bibl>
+
+          </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <projectDesc>
+                <p>Encoded for portfolio demonstration using TEI P5</p>
+            </projectDesc>
+            <samplingDecl>
+                <p>Five poems were selected to represent differing attitudes toward history, monuments, and power in Romantic-era poetry.</p>
+            </samplingDecl>
+        </encodingDesc>
+    </teiHeader>
+
+    <text>
+      <body>
+        <lg type="poem">
+          <head>The Ruined Castle</head>
+          <l>Oh! let me sigh to think this ruin’d pile</l>
+          <l>Was favour'd once with fortune's radiant smile;</l>
+          <l>These moss-grown battlements, these ivy'd towers,</l>
+          <l>Have seen prosperity's uncertain hours;</l>
+          <l>Their heroes triumph'd in the scenes of war,</l>
+          <l>While victory follow'd in her trophied car.</l>
+          <l>Here, where I muse in meditation's arms,</l>
+          <l>Perhaps the battle raged with loud alarms;</l>
+          <l>Here glory's crimson banner waving spread,</l>
+          <l>While laurel crowns entwin'd the victor's head;</l>
+          <l>And here, perhaps, with many a plaintive tear,</l>
+          <l>The mourner has bedew'd the soldier's bier.</l>
+          <l>The scene of conquest pensive fancy draws,</l>
+          <l>Where thousands fell, enthusiasts in their cause.</l>
+          <l>Yon turret, moulder'd by the hand of time,</l>
+          <l>Shaded by silver ash and spreading lime,</l>
+          <l>Was once, perhaps, the hall of mirth and joy,</l>
+          <l>Where warriors sought no longer to destroy;</l>
+          <l>And where, perhaps, the hoary-headed sage,</l>
+          <l>Would lead them o'er the animating page;</l>
+          <l>Where history points to glorious ages fled,</l>
+          <l>And tells the noble actions of the dead.</l>
+          <l>Still fancy with a magic power recalls</l>
+          <l>The time when trophies grac'd the lofty walls:</l>
+          <l>When with enchanting spells the minstrel's art,</l>
+          <l>Could soften and inspire the melting heart;</l>
+          <l>Could raise the glowing elevated flame,</l>
+          <l>And bid the youthful soldier pant for fame:</l>
+          <l>While deeds of glory were the themes he sung,</l>
+          <l>The pleasant harp in wild accordance rung.</l>
+          <l>Ah! where is now the warrior's ardent fire?</l>
+          <l>Where now the tuneful spirit of the lyre?</l>
+          <l>The warrior sleeps; the minstrel's lay is still;</l>
+          <l>No songs of triumph echo from the hill.</l>
+          <l>Ah! yet the weeping muse shall love to sigh,</l>
+          <l>And trace again thy fallen majesty;</l>
+          <l>And still shall Fancy linger on the theme,</l>
+          <l>While forms of heroes animate her dream.</l>
+
+        </lg>
+      </body>
+    </text>
+  </TEI>

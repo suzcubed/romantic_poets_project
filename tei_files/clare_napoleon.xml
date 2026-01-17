@@ -1,0 +1,87 @@
+<TEI version="3.3.0" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title level="m" type="main">To Napoleon</title>
+            <title level="m" type="sub"> a machine readable transcription</title>
+            <author ref="https://www.wikidata.org/wiki/Q981572">John Clare</author>
+            <respStmt>
+                <resp>Transcription and encoding</resp>
+                <persName xml:id="sy">Susannah Young</persName>
+            </respStmt>
+          </titleStmt>
+          
+          <editionStmt>
+            <edition>
+                <date>2026</date>
+            </edition>
+          </editionStmt>
+
+          <publicationStmt>
+            <availability><p>Unpublished digital edition for MLIS portfolio. The text of the original item is in the public domain.</p></availability>
+          </publicationStmt>
+          
+          <sourceDesc>
+            <biblStruct>
+                 <monogr>
+                    <author ref="https://www.wikidata.org/wiki/Q981572">John Clare</author>
+                    <title level="m" type="main">The Rural Muse</title>
+                    <title level="m" type="sub">Poems</title>
+                    <title level="a" type="main">To Napoleon</title>
+                    <orgName xml:id="digitizer">University of Toronto Library</orgName>
+                    <imprint>
+                        <pubPlace>London</pubPlace>
+                        <publisher>Whitaker &amp; Co.</publisher>
+                        <date>1835</date>
+                    </imprint>
+                </monogr>
+                <note type="project">
+                Transcribed from digital images of the original. 
+                Digitized version provided by the University of Toronto Library via the Internet Archive.
+                        <ptr type="url" target="https://archive.org/details/ruralmusepoems00claruoft/page/n1/mode/2up"/>
+                </note>
+            </biblStruct>
+            
+            <bibl>
+                <author ref="https://www.wikidata.org/wiki/Q981572">John Clare</author>
+                <title level="a" type="main">To Napoleon</title>
+                <date xml:id="dat1" notBefore="1824" notAfter="1836" cert="high">Between 1824 and 1836</date>
+                <note type="project">
+                    Edmund Blunden and Alan Porter, editors of the 1920 collection of Clare's poems, place the poem in a collection of Clare's "Middle Period" manuscripts dated 1824 to 1836.
+                </note>
+            </bibl>
+          </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc>
+            <projectDesc>
+                <p>Encoded for portfolio demonstration using TEI P5</p>
+            </projectDesc>
+            <samplingDecl>
+                <p>Five poems were selected to represent differing attitudes toward history, monuments, and power in Romantic-era poetry.</p>
+            </samplingDecl>
+        </encodingDesc>
+    </teiHeader>
+
+    <text>
+      <body>
+        <lg type="sonnet">
+          <head>To <persName ref="https://www.wikidata.org/wiki/Q517">Napoleon</persName></head>
+            <l>The heroes of the present and the past</l>
+            <l>Were puny, vague, and nothingness to thee:</l>
+            <l>Thou didst a span grasp mighty to the last,</l>
+            <l>And strain for glory when thy die was cast.</l>
+            <l>That little island, on the Atlantic sea,</l>
+            <l>Was but a dust-spot in a lake: thy mind</l>
+            <l>Swept space as shoreless as eternity.</l>
+            <l>Thy giant powers outstript this gaudy age</l>
+            <l>Of heroes; and, as looking at the sun,</l>
+            <l>So gazing on thy greatness, made men blind</l>
+            <l>To merits, that had adoration won</l>
+            <l>In olden times. The world was on thy page</l>
+            <l>Of victories but a comma. Fame could find</l>
+            <l>No parallel, thy greatness to presage.</l>
+        </lg>
+    </body>
+  </text>
+</TEI>

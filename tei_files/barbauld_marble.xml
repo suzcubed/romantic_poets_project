@@ -1,0 +1,85 @@
+<TEI version="3.3.0" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+          <titleStmt>
+            <title level="m" type="main">Written on a Marble </title>
+            <title level="m" type="sub"> a machine readable transcription</title>
+            <author ref="https://www.wikidata.org/wiki/Q268305">Anna Laetitia Barbauld</author>
+            <editor>Lucy Aikin</editor>
+            <respStmt>
+                <resp>Transcription and encoding</resp>
+                <persName xml:id="sy">Susannah Young</persName>
+            </respStmt>
+          </titleStmt>
+            
+            <editionStmt>
+              <edition>
+                  <date>2026</date>
+              </edition>
+            </editionStmt>
+
+            <publicationStmt>
+              <availability><p>Unpublished digital edition for MLIS portfolio. The text of the original item is in the public domain.</p></availability>
+            </publicationStmt>
+          
+          <sourceDesc>
+            <biblStruct>
+                  <monogr>
+                    <author ref="https://www.wikidata.org/wiki/Q268305">Anna Laetitia Barbauld</author>
+                    <editor>Lucy Aikin</editor>
+                    <title level="m" type="main">The Works of Anna Laetitia Barbauld</title>
+                    <title level="m" type="sub">Volume 1</title>
+                    <title level="a" type="main">Written on a Marble</title>  
+                    <orgName xml:id="digitizer">University of Toronto Library</orgName>
+                    <imprint>
+                        <pubPlace>London</pubPlace>
+                        <publisher>Longman, Hurst, Rees, Orme, Brown, and Green</publisher>
+                        <date>1825</date>
+                    </imprint>
+                </monogr>
+                <note type="project">
+                  Transcribed from digital images of the original. 
+                  Digitized version provided by the University of Toronto Library via the Internet Archive.
+                  <ptr type="url" target="https://archive.org/details/worksofannlaetit01barbuoft/"/>
+                </note>
+            </biblStruct>
+            
+            <bibl>
+              <author ref="https://www.wikidata.org/wiki/Q268305">Anna Laetitia Barbauld</author>
+              <date xml:id="dat1" notBefore="1773" notAfter="1791" cert="medium">Between 1773 and 1791</date>
+              <title level="a" type="main">Written on a Marble</title>
+              <note type="project">
+                  Poems are arranged chronologically by Aikin. <hi rend="italics">Written on a Marble</hi> appears after works in Barbauld's 1773 collection <hi rend="italics">Poems</hi> and before her 1791 poem <hi rend="italics">Epistle to William Wilberforce on the Rejection of the Bill for Abolishing the Slave Trade</hi>.
+              </note>
+            </bibl>
+          </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Encoded for portfolio demonstration using TEI P5</p>
+            </projectDesc>
+            <samplingDecl>
+                <p>Five poems were selected to represent differing attitudes toward history, monuments, and power in Romantic-era poetry.</p>
+            </samplingDecl>
+        </encodingDesc>
+    </teiHeader>
+
+    <text>
+        <body>
+            <lg type="poem">
+              <head>Written on a Marble.</head>
+                <l>The world's something bigger,</l>
+                <l>But just of this figure</l>
+                <l>And speckled with mountains and seas</l>
+                <l>Your heroes are overgrown schoolboys</l>
+                <l>Who scuffle for empires and toys,</l>
+                <l>And kick the poor ball as they please.</l>
+                <l>Now <persName ref="https://www.wikidata.org/wiki/Q1048">Caesar</persName>, now <persName ref="https://www.wikidata.org/wiki/Q125414">Pompey</persName> gives law;</l>
+                <l>And <placeName>Pharsalia</placeName>'s plain,</l>
+                <l>Though heaped with the slain,</l>
+                <l>Was only a game at taw.</l>
+            </lg>
+        </body>
+    </text>
+ </TEI>
+
