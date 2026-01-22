@@ -1,12 +1,12 @@
 # Romantic Poets TEI Project
 
 ## Objective
-- Produce accessible, searchable digital editions of five Romantic era poems.  
-- Transform scholarly markup into web publication-ready material.  
-- Automate transformations and data extraction using Python, allowing for scalable and reproducible workflows.  
+- Produce TEI markup of Romantic era poems with publication metadata. 
+- Transform TEI (XML) markup into web-ready HTML.
+- Automate transformations and data extraction using Python for scalability. 
 
 ## Methods
-This toy corpus is meant to show different encoding scenarios.  
+This toy corpus of five poems is meant to show different encoding scenarios.  
 
 ### Corpus Selection & Sources
 - Authors sampled represent a diversity of perspectives within the Romantic era – class, gender, and differing schools of thought.  
@@ -15,8 +15,8 @@ This toy corpus is meant to show different encoding scenarios.
 - Research on composition dates and details is captured in `<note type="project">` tags in the TEI files.  
 
 ### TEI
-- Encoding follows Walt Whitman Archive header schema practices for capturing file, source, and bibliographic details.  
-- Minimal interpretive tagging:  
+- Encoding follows [Walt Whitman Archive](https://whitmanarchive.org/about/encoding-guidelines) header schema practices for capturing file, source, and bibliographic details.  
+- Minimal interpretive tagging used:  
   - Proper names (`<persName>`, `<placeName>`) for searchability  
   - Structural poem types included for comparison  
 - Rhyme scheme and meter are **not** encoded.  
