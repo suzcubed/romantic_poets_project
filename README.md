@@ -6,7 +6,7 @@
 - Automate transformations and data extraction using Python for scalability. 
 
 ## Methods
-This toy corpus of five poems is meant to show different encoding scenarios.  
+This toy corpus of five poems is meant to show different encoding scenarios (varying manuscript availabiity, publication details, etc.).  
 
 ### Corpus Selection & Sources
 - Authors sampled represent a diversity of perspectives within the Romantic era – class, gender, and differing schools of thought.  
@@ -36,5 +36,5 @@ This toy corpus of five poems is meant to show different encoding scenarios.
 - Metadata CSV output is available in the `/metadata_csv_outputs` project folder.  
 
 ### Live Demo
-Click [here](live_demo/index.html) for a preview of the TEI files transformed into HTML.  
+Click [here](https://suzcubed.github.io/romantic_poets_project/) for a preview of the TEI files transformed into HTML and the extracted metadata CSV.  
 Extracted metadata is also available in the `/live_demo` project folder as a CSV file for download.  
