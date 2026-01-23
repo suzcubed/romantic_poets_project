@@ -1,8 +1,0 @@
-.DS_Store
-.AppleDouble
-.LSOverride
-__pycache__/
-*.pyc
-*.pyo
-*.pyd
-.ipynb_checkpoints/
